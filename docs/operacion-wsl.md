@@ -97,12 +97,12 @@ Respuesta esperada aproximada:
 ```json
 {
   "status": "ok",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "activeSessions": 0
 }
 ```
 
-Nota: si `package.json` indica otra version, conviene sincronizar la version del codigo.
+Nota: la version esperada debe coincidir con `package.json`.
 
 ## 10. Configuracion MCP para cliente HTTP
 
