@@ -40,7 +40,7 @@ export async function startHttpServer(port: number) {
 
   const serverInfo = {
     name: "playwright-mcp",
-    version: "1.0.11",
+    version: "1.0.12",
     capabilities: {
       resources: {},
       tools: {},
